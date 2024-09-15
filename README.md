@@ -183,4 +183,4 @@ The base URL for all API endpoints is:
 
 **Links:**
 
-- [Live Version](https://cron-frontend.vercel.app/)
+- [Live Version]
